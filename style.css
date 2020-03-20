@@ -37,7 +37,10 @@ p{
 
 
 .author-text {
-    font-size: 20px;    
+    font-size: 15px;   
+    float: left;
+    margin-top: 30px;
+    margin-left: 10px;
 }
 
 .container {
@@ -65,4 +68,26 @@ p{
     content: "";
     display: table;
     clear: both;
+}
+
+.other {
+    margin-bottom:20px; 
+}
+
+.author-box img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    float: left;
+    
+}
+
+.blog-post img{
+    height: 150px;
+    width: auto;
+}
+
+
+.date {
+    
 }
