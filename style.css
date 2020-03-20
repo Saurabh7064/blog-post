@@ -60,3 +60,9 @@ background-color: greenyellow;
 .author-box {
     background-color: yellow;
 }
+
+.clearfix {
+    content: "";
+    display: table;
+    clear: both;
+}
